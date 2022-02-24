@@ -1,0 +1,200 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A most cruel and terrible engagement between the confederates of the Upper and Lower Alsatias, the Palatinate of Dorset-Gardinia with the confines, and territories of Shark-Island, and the scandalous sanctuary, on the one side, and the Posse Com. Luxemburgians, and Tory-Drivers on the other.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51450</idno>
+            <idno type="STC">Wing M2870B</idno>
+            <idno type="STC">ESTC R10247</idno>
+            <idno type="EEBO-CITATION">13111719</idno>
+            <idno type="OCLC">ocm 13111719</idno>
+            <idno type="VID">97689</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51450)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97689)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 746:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A most cruel and terrible engagement between the confederates of the Upper and Lower Alsatias, the Palatinate of Dorset-Gardinia with the confines, and territories of Shark-Island, and the scandalous sanctuary, on the one side, and the Posse Com. Luxemburgians, and Tory-Drivers on the other.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>A political satire on John Dutton, described as a Roman Catholic, "living at the sign of the sugar-loaf, within Temple-Bar ..."</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:97689:1" rendition="simple:additions"/>
+            <head>A Moſt Cruel and Terrible ENGAGEMENT Between the CONFEDERATES of the Upper and Lower ALSATIAS, The Palatinate of Dorſet-Gardinia: WITH The Confines, and Territories of <hi>Shark-Iſland,</hi> and the Scandalous Sanctuary, on the one ſide, and the <hi>Poſſe Com. Luxemburgians,</hi> and <hi>Tory-Drivers</hi> on the other.</head>
+            <p>THE Quarrel, for it is fit you ſhould know how they fell out, aroſe from hence, That <hi>John Dutton,</hi> living at the Sign of the <hi>Sugar-Loaf,</hi> within <hi>Temple-Bar,</hi> a mortal Enemy to <hi>Shark-Iſland,</hi> lays claim to a certain Caſtle in the <hi>Upper-Alſatia,</hi> in the Poſſeſſion of <hi>George,</hi> a Blind-Bear, and <hi>Urſula</hi> his Wife, of the Race of the Dragoneſſes; which Caſtle formerly known by the Sign of the <hi>Bulls-Head</hi> in <hi>White-Fryars,</hi>
+               <pb n="2" facs="tcp:97689:2"/>now alter'd to the Sign of the <hi>Bear,</hi> deriving its new Name, from the Name of the Beaſt that lives within. This Caſtle <hi>Dutton</hi> had purchas'd of a Cruel Landlady, to whom he paid 150 <abbr>
+                  <hi>l.</hi>
+               </abbr> Fine, and 63 <abbr>
+                  <hi>l.</hi>
+               </abbr> a Year; all which Rack-Rent he paid for ſome time, all but 3 <hi>
+                  <abbr>l.</abbr> per Annum,</hi> and then let the whole re<g ref="char:EOLhyphen"/>maining Term of this Leaſe to the <hi>Bear,</hi> for 69 <hi>
+                  <abbr>l.</abbr> per Annum,</hi> but to encou<g ref="char:EOLhyphen"/>rage him to pay the Rent Quarterly, and without trouble, the ſaid <hi>Dutton</hi> oblig'd himſelf, under his Hand and Seal, to abate 9 <hi>
+                  <abbr>l.</abbr> per Annum,</hi> provided the Rent were paid duly, and juſtly within Fourteen Days after every Quar<g ref="char:EOLhyphen"/>ter. But theſe Kindneſſes did not ſatisfy the <hi>Bear,</hi> unleſs he might have the Caſtle for nothing: So that he was run in Arrears by laſt <hi>Chriſtmaſs,</hi> after all Receipts and Taxes allow'd, Beſides the Charge of a former Diſtreſs
+<table>
+                  <row>
+                     <cell> </cell>
+                     <cell>57</cell>
+                     <cell>05</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>14</cell>
+                     <cell>18</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell role="label">In all</cell>
+                     <cell role="total">72</cell>
+                     <cell role="total">05</cell>
+                     <cell role="total">04</cell>
+                  </row>
+               </table>
+Which is now due to <hi>Dutton,</hi> not reckoning in this laſt Ladies Quarter, which is near expir'd, which comes to
+<table>
+                  <row>
+                     <cell> </cell>
+                     <cell>17</cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>72</cell>
+                     <cell>5</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell role="label">Total</cell>
+                     <cell role="total">89</cell>
+                     <cell role="total">10</cell>
+                     <cell role="total">4</cell>
+                  </row>
+               </table>
+Now to ſatisfy <hi>Dutton,</hi> there is nothing left but the Goods, which are Apprais'd at
+<table>
+                  <row>
+                     <cell>45</cell>
+                     <cell>5</cell>
+                     <cell>0</cell>
+                  </row>
+               </table>
+So that <hi>Dutton</hi> is like to get over the left Shoulder, or accord<g ref="char:EOLhyphen"/>ing to the Phraſe of <hi>Alſatia,</hi> to be <hi>Bobb'd</hi> of
+<table>
+                  <row>
+                     <cell>44</cell>
+                     <cell>5</cell>
+                     <cell>4</cell>
+                  </row>
+               </table>
+            </p>
+            <p>This being the Truth and nothing but the Truth, I Appeal to all the World, except the <hi>Alſatians</hi> and <hi>Shark Iſlanders,</hi> themſelves, whether their <hi>Alſatians</hi> and <hi>Shark-Iſlanders</hi> are not a Company of <hi>Canary</hi> Birds, to Protect this Bear from the Juſtice of the <hi>Luxemburgians.</hi> I would therefore have 'em to call a Geneeal Council of their Members of a <hi>Pack-Thread</hi> Crew, and adviſe with their Allies in the <hi>Mint-Land,</hi> by whome it was Enacted at a General Dyet of the Confederates, that what Goods were brought in ſhould not be Parted with, but upon very good Terms; but that what was Contracted within for Rent, or otherwiſe within ſhould be paid upon pain of Excluſion, or Hang<g ref="char:EOLhyphen"/>ing if able. This look'd like ſomething of Juſtice, without which there could be no ſubſiſting among Thieves and Pick-Pockets, and therefore renders the <hi>Shark Iſlanders</hi> the more inexcuſible.</p>
+            <p>Well then the Quarrel being thus begun, <hi>Dutton</hi> Declared Open War againſt the Bear and <hi>Urſula</hi> his Wife. Upon which the Bear ſet forth
+<pb n="3" facs="tcp:97689:2"/>a <hi>Manifeſto,</hi> wherein he Alledg'd, that the Potentates of the <hi>Poſſe Com.</hi> were not to Aſſiſt <hi>Dutton</hi> becauſe he is a <hi>Roman Catholick.</hi> To which <hi>Dutton</hi> apply'd in a Declaration, that ſo long as he Liv'd Civilly under the Government, his Religion was no Argument, why he ſhould not have his Right and Due. Thereupon <hi>Dutton</hi> having got the <hi>Poſſe Com.</hi> to Muſter together, reſolv'd <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o make an Incurſion into the Upper <hi>Alſatia,</hi> and Land in <hi>Shark Iſland.</hi> But firſt <hi>Dutton</hi> ſent a Summons to the <hi>Bear,</hi> to Surrender the Remainder of his Money. To which <hi>Urſula</hi> the ſhe <hi>Bear</hi> reply'd, that ſhe had a Bill wherewith to Pay what Money was behind beginning, <hi>Itum</hi> ſix Pound for Building a Shop for a <hi>Barber,</hi> tho' the whole Charge of that Shop was but Forty Shil<g ref="char:EOLhyphen"/>lings, and that ſtill unpaid too; by which it was apparent, how <hi>Dutton</hi> was like to be ſatisfied. So that <hi>Dutoon</hi> ſeeing there was no good to be done by fair means, drew up his Men, and gave the Signall of Batteel. Nor did the Rapparees forbear to make a ſtout Reſiſtance at firſt, inſomuch that <hi>Dutton</hi> being ſomewhat of the forwardeſt to encourage his Men, received a ſlight Shot in his Right Breſt; for which the Rapparees being ſeized by the <hi>Luxemburgians,</hi> Revolted to the <hi>Poſſe Com.</hi> and ſo ſav'd his being taken Pri<g ref="char:EOLhyphen"/>ſoner. Upon this the <hi>Shark-Iſlanders</hi> gave Ground, and the <hi>Paſſe Com.</hi> Led on by their Commander in Chief, March forward and Purſu'd the Enemy to the <hi>Pallatinate</hi> of <hi>Dorſet Gardinia,</hi> where the <hi>Shark-Iſlanders</hi> being Reinfor<g ref="char:EOLhyphen"/>ced with a good number of Lower <hi>Alſatians;</hi> and ſecond by ſome Old En<g ref="char:EOLhyphen"/>trenchments, Fac'd about, and began to Parley with the Commander in Chief of the <hi>Poſſe Com.</hi> and boldly demanded of him his buſineſs: who bid them forthwith to lay down their Arms, or elſe they muſt expect no Quarter. They anſwered Peremptorily, that if he came to take away any of their Sub<g ref="char:EOLhyphen"/>jects they would Die upon the Spot, before they would part with them; and as for <hi>Dutton</hi>'s Goods, he was a <hi>Papist,</hi> and therefore they hoped his Wor<g ref="char:EOLhyphen"/>ſhip would not Aſſiſt him, but let them have his Goods to add to their Trea<g ref="char:EOLhyphen"/>ſure which was ſo much Exhauſted by the frequent Alarums of Juſtice, be<g ref="char:EOLhyphen"/>ſides that their Number was much di<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>iſhed, by Hanging and Tranſportation.</p>
+            <p>They had alſo ſome particular Complaints againſt <hi>Dutton</hi> himſelf: For that when he was Conſtable about Six or Seven Years ago, he had put the Laws in execution; as well againſt many of their Foreign Benefactors, as Inland Traders; that is to ſay, their Sweetners, Traps, Decon Drawers, Divers, Buttocks, Files, Country <hi>Beſs,</hi> and <hi>Farmer</hi>'s Wife, <hi>&amp;c.</hi> and for that he had carry'd ſeveral of their beſt Benefactors to the <hi>Counters,</hi> and <hi>Newgate,</hi> that their beſt Nurſeries, call'd Bawdy-houſes, and Receivers of Stollen Goods, could not reſt for him, though they had offer'd to ſpend Money at his Houſe, and tempted him with Preſents of Rings, Money, and Watches, to wink at ſmall Faults, but nothing would do; for he cry'd ſtill, he could not break his Conſtables Oath; So much was he wedded to that ſame Folly call'd Honeſty. That his Succeſſours were not of his Opinion, but let 'em do what they liſted;
+<pb n="4" facs="tcp:97689:3" rendition="simple:additions"/>the one a famous Drunken Houſe-Painter, the other a Milk-ſop, a Penny Cuſtard-Maker, who to his Praiſe be it ſpoken, when the <hi>Poſſe Com.</hi> appear'd, always play'd, Leaſt in Signt.</p>
+            <p>The Commander in Chief, having heard their Remonſtrances, advis'd 'em to be obedient, and ſubmit to the Laws, and ſo went on with his buſineſs, ordering <hi>Dutton</hi> to haſten his Workmen; who did as he was order'd, not with ſtanding the loud Complaints of <hi>Urſula,</hi> and her two Friends; one diſcreet Lawyer, the other a Diſſembling <hi>Mahometan,</hi> who cry'd out of <hi>Dutton</hi>'s hard Uſage of her Husband, &amp; fain wou'd have perſwaded the <hi>Poſſe Com. Luxemburgi<g ref="char:EOLhyphen"/>ans</hi> that what <hi>Dutton</hi> their Landlord did, was only becauſe her Husband was a <hi>Proteſtant,</hi> only by which means, they thought to have got clear of their Land<g ref="char:EOLhyphen"/>lord: But this Plot not taking, they were forc'd to let go the Goods quietly. Nevertheleſs, <hi>Dutton</hi> was ſo kind, and far more compaſſionate to them than they would have been to him, ſo that he left the <hi>Bear,</hi> and <hi>Urſula</hi> his Wife, their own Bed-chamber furniſh'd. And they that know the Temper of the Beaſt, well know, that he loves his eaſe too well, to lie upon the worſt Bed.</p>
+            <p>Thus the <hi>Alſatians,</hi> and <hi>Shark Iſlanders,</hi> being utterly defeated, the Com<g ref="char:EOLhyphen"/>mander in Chief of the <hi>Poſſe Com.</hi> ſounded a Retreat, and <hi>Dutton</hi> carry'd off his Bag and Baggage.</p>
+            <p>I could enlarge much more upon this Subject, but I ſhall end with a ſeaſona<g ref="char:EOLhyphen"/>ble uſe of Exhortation to theſe ſame Lawleſs Inhabitants of both the <hi>Alſattan's,</hi> and <hi>Sharks Iſlanders;</hi> Not to to urge <hi>Dutton</hi> the Landlord too far, for fear he ſhould be the occaſion of Breaking their Pretended Priviledges: For they very well know how I dealt with <hi>Morgan ap Morgan,</hi> who ſet up the <hi>White-Fryars,</hi> thinking to out-hector me with his Bullys, and the moſt reſolute of all the Peſtilent Gang: But I Diſſolv'd 'em, broke the Knot, Diſarm'd, and Level'd 'em in two or three Seſſions.</p>
+            <p>They know that I know the Place full well, as having liv'd Twelve Years among them, and have had ſeveral that are Landlords in the Place, to know of me what Methods I took; and I tell 'em, <hi>Knaves muſt be dealt with like Knaves.</hi>
+            </p>
+            <p>Moreover, I adviſe two Men of <hi>White-Fryars,</hi> to keep a Good Tongue in their Heads: The one is Captain <hi>W—ter,</hi> a Famous Champion upon Record, for appearing in Routs and Ryots; the other, Honeſt Drunken Captain <hi>G—den,</hi> who ſays, <hi>Dutton</hi> was a <hi>Papiſt,</hi> in one King's Reign, but now goes to Church to ſave his Bacon; which <hi>Dutton</hi> denys. And there is one of the Learned Men of the Law among them, can teſtifie, That <hi>Dutton</hi> paid him a Bill for appearing for him, and making his defence againſt one <hi>Loyn,</hi> or <hi>Lole</hi> an Informer. And therefore <hi>John Dutton</hi> owns himſelf to be a <hi>Roman Catholick,</hi> as he ever was, and his Father before him, though very much to his Damage, and Prejudice. So Farewel till the next Occaſion.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1691.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
